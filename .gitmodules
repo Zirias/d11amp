@@ -1,0 +1,3 @@
+[submodule "mark4/software/zimk"]
+	path = mark4/software/zimk
+	url = https://github.com/Zirias/zimk.git
